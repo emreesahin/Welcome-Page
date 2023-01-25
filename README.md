@@ -1,6 +1,6 @@
 # Welcome-Page
 
-# This project is a welcome page. In this page the name information is taken from the user. In addition, time and date data from local data using JavaScript are shown on the page.
+### This project is a welcome page. In this page the name information is taken from the user. In addition, time and date data from local data using JavaScript are shown on the page.
 
 
 <img width="1048" alt="Kodluyoruz Ödev 1" src="https://user-images.githubusercontent.com/101198503/214551049-2972ed65-d71a-4e3e-94a4-a7e3d6ec9979.png">
